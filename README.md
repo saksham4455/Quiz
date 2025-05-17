@@ -19,12 +19,6 @@ Community Section: Connect, share achievements, and participate in challenges.
 
 Contact Page: Easy-to-use form for feedback and support.
 
-🖥️ Live Demo
-Add your deployed link here, e.g. https://yourquizapp.com
-
-📸 Screenshots
-Add screenshots/gifs of your Home, Quiz, Result, Community, and Contact pages here.
-
 🛠️ Tech Stack
 Frontend: React, React Router
 
@@ -61,6 +55,7 @@ Open in your browser:
 
 text
 http://localhost:3000
+
 🧑‍💻 How It Works
 Home: Welcomes users with a video background and a "Let's Start" button.
 
@@ -76,8 +71,6 @@ Contact: Simple form for feedback or support.
 
 📱 Responsive Design
 The layout, quiz cards, and navigation adapt automatically for all screen sizes.
-
-On mobile, navigation transforms into a sidebar for easy access.
 
 🤝 Community & Contribution
 Contributions, suggestions, and feedback are welcome!
