@@ -27,35 +27,7 @@ Styling: Tailwind CSS & Custom CSS
 Animations: CSS Keyframes, Glassmorphism
 
 Assets: Royalty-free videos and icons
-
-📂 Project Structure
-text
-src/
-├── assets/              # Video and image assets
-├── components/          # Reusable components (Navbar, etc.)
-├── pages/               # Home, Quiz, About, Community, Contact
-├── App.jsx
-├── index.js
-└── ...
-📝 How to Use
-Clone the repository:
-
-bash
-git clone https://github.com/your-username/quiz-app.git
-cd quiz-app
-Install dependencies:
-
-bash
-npm install
-Start the development server:
-
-bash
-npm start
-Open in your browser:
-
-text
-http://localhost:3000
-
+S
 🧑‍💻 How It Works
 Home: Welcomes users with a video background and a "Let's Start" button.
 
